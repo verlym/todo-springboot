@@ -1,0 +1,8 @@
+com/thekrustykrab/todo/repository/TodoRepository.class
+com/thekrustykrab/todo/service/TodoServiceImpl.class
+com/thekrustykrab/todo/controller/TodoController.class
+com/thekrustykrab/todo/service/TodoService.class
+com/thekrustykrab/todo/enums/TodoStatus.class
+com/thekrustykrab/todo/model/Todo$TodoBuilder.class
+com/thekrustykrab/todo/model/Todo.class
+com/thekrustykrab/todo/TodoApplication.class

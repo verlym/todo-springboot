@@ -1,0 +1,7 @@
+/home/eic_dev/dev/java/spring-boot/todo/src/main/java/com/thekrustykrab/todo/TodoApplication.java
+/home/eic_dev/dev/java/spring-boot/todo/src/main/java/com/thekrustykrab/todo/model/Todo.java
+/home/eic_dev/dev/java/spring-boot/todo/src/main/java/com/thekrustykrab/todo/repository/TodoRepository.java
+/home/eic_dev/dev/java/spring-boot/todo/src/main/java/com/thekrustykrab/todo/controller/TodoController.java
+/home/eic_dev/dev/java/spring-boot/todo/src/main/java/com/thekrustykrab/todo/service/TodoServiceImpl.java
+/home/eic_dev/dev/java/spring-boot/todo/src/main/java/com/thekrustykrab/todo/service/TodoService.java
+/home/eic_dev/dev/java/spring-boot/todo/src/main/java/com/thekrustykrab/todo/enums/TodoStatus.java
